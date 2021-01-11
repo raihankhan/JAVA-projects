@@ -35,11 +35,14 @@ When a user runs the program , Main class will initialize an object of HangmanGU
  ![c](https://user-images.githubusercontent.com/25270629/58050313-d6189680-7b70-11e9-8c3a-42b30496be02.jpg)
  
     Figure 03: Game condition when player is guessing the letters.
+    
 
  ![d](https://user-images.githubusercontent.com/25270629/58050314-d6189680-7b70-11e9-94a8-948bb4bff92f.png)
  
     Figure 04: Game state when player have guessed all the letters correctly.
-![e](https://user-images.githubusercontent.com/25270629/58050315-d6189680-7b70-11e9-820c-4438f5e93d9b.jpg)
+    
+    
+ ![e](https://user-images.githubusercontent.com/25270629/58050315-d6189680-7b70-11e9-820c-4438f5e93d9b.jpg)
 
     Figure 05: Game state when player could not guess all the letters before the drawing completes.
 
